@@ -2,7 +2,7 @@
 
 Operating systems Lab exercise.
 
-#EX - 1 Linux commands-Shell scripting:
+# EX - 1 Linux commands-Shell scripting:
 
 Linux commands-Shell scripting
 
